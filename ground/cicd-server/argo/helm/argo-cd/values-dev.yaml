@@ -3,4 +3,4 @@
 server:
   service:
     type: NodePort
-    nodePortHttps: 30003
+    nodePortHttps: 30002
